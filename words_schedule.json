@@ -1,0 +1,37 @@
+{
+  "2025-04-23": {
+    "theme": "Science & Discovery",
+    "words": [
+      {
+        "word": "chronological",
+        "pos": "adj.",
+        "translation": "расположенный в хронологическом порядке",
+        "example": "Lionel carefully arranged the snapshots in chronological order."
+      },
+      {
+        "word": "circuitous",
+        "pos": "adj.",
+        "translation": "окольный, непрямой",
+        "example": "The bus's circuitous route took us through every neighborhood."
+      },
+      {
+        "word": "circumlocution",
+        "pos": "n.",
+        "translation": "многословие, уклончивость",
+        "example": "The professor’s habit of circumlocution made lectures hard to follow."
+      },
+      {
+        "word": "circumscribed",
+        "pos": "adj.",
+        "translation": "ограниченный, очерченный",
+        "example": "The children were permitted to play tag within a circumscribed area."
+      },
+      {
+        "word": "circumspect",
+        "pos": "adj.",
+        "translation": "осмотрительный, осторожный",
+        "example": "He made a circumspect decision after careful consideration."
+      }
+    ]
+  }
+}
